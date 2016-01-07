@@ -12,7 +12,7 @@ timegrid
 [![Test Coverage](https://codeclimate.com/github/alariva/timegrid/badges/coverage.svg)](https://codeclimate.com/github/alariva/timegrid/coverage)
 [![StyleCI](https://styleci.io/repos/45974720/shield)](https://styleci.io/repos/45974720)
 [![Current Stable](https://img.shields.io/badge/stable-3.6.0-green.svg?style=flat-square)](http://timegrid.io/)
-[![Current Beta](https://img.shields.io/badge/dev--beta-3.6.x-orange.svg?style=flat-square)](http://demo.timegrid.io/)
+[![Current Beta](https://img.shields.io/badge/dev--beta-3.7--beta1-orange.svg?style=flat-square)](http://demo.timegrid.io/)
 [![License](https://img.shields.io/:license-AGPL--3.0-blue.svg?style=flat-square)](http://www.gnu.org/licenses/agpl-3.0.txt)
 
 **The problem**
@@ -24,6 +24,8 @@ Small and medium scale businesses wish to provide online service booking for the
 Timegrid is a single platform holding all *businesses* and *customers* while letting them an *affordable* and *easy to use* way to interact. Like a **CRM**, but *Simple*, *Useful*, and *Fast*.
 
 Built with the [**Laravel 5.1 (LTS)**](http://laravel.com/docs/5.1) framework for [**PHP**](http://php.net/).
+
+> For the build under upgraded **Laravel 5.2** refer to the `4.0-beta-1` branch.
 
 ## Screenshots
 
